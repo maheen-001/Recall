@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Recall's vector index (rebuilt by re-uploading your notes)
+recall_db/
+
+# My study materials for testing and use (copyright and/or personal)
+uploads/
+*.pdf
+*.pptx
+*.docx
+
+# Secrets and OS/editor junk
+.env
+.DS_Store
+.vscode/
